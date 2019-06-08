@@ -3,7 +3,7 @@
 #Date:06/06/2019
 #Description:this is for and opreartion
 #modified:06/06/2019
- if [[ -e $1 ]] || [[ -d $1 ]]
+# if [[ -e $1 ]] || [[ -d $1 ]]
   then
    echo "you have entered directory or file path and taking backup"
   tar -cvzf backupfiledir.tgz $1
