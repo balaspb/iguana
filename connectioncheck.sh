@@ -1,7 +1,6 @@
 #!/bin/bash
-#Author:bala
-#Date:07/06/2019
 #Modified:08/06/2019
+#Description:this is for testing
 
 echo "excuting $COMMAND on all webnodes"
 
