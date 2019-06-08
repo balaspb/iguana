@@ -1,5 +1,7 @@
 #!/bin/bash
-
+#Author:bala
+#Date:07/06/2019
+#Modified:08/06/2019
 
 echo "excuting $COMMAND on all webnodes"
 
