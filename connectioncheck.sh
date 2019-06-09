@@ -1,7 +1,8 @@
 #!/bin/bash
 #Modified:08/06/2019
 #Description:this is for testing
-this for git reset test
+#AUTHOR:Ranga
+
 echo "excuting $COMMAND on all webnodes"
 
 for IP in $(cat webnodeip.txt)
