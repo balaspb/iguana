@@ -2,7 +2,7 @@
 #Author:bala
 #Date:06/06/2019
 #Description:this is for and opreartion
-#modified:06/06/2019
+#modified:09/06/2019
  if [[ -n $1 ]] && [[ -d $1 ]]
   then
    echo "you have entered directory path and taking backup"
