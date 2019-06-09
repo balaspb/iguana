@@ -2,7 +2,7 @@
 #Author:Bala
 #date:06/06/2019
 #Description:this is for if condition
-#Modified:09/06/2019
+#Modified:10/06/2019
  
 read -p "enter the value:" NUM
 echo 
