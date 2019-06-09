@@ -1,6 +1,6 @@
 #!/bin/bash
 #Author:bala
-#Date:06/06/2019
+#Date:09/06/2019
 #Description:this is for and opreartion
 #modified:09/06/2019
  if [[ -n $1 ]] && [[ -d $1 ]]
