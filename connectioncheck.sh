@@ -2,7 +2,7 @@
 #Modified:08/06/2019
 #Description:this is for testing
 #AUTHOR:Ranga
-
+#this for git reset test
 echo "excuting $COMMAND on all webnodes"
 
 for IP in $(cat webnodeip.txt)
